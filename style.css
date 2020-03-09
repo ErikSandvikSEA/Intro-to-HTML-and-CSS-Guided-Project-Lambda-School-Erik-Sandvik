@@ -1,0 +1,47 @@
+/* THIS IS THE GENERAL STYLES */
+body{
+  font-family: 'Roboto Mono', monospace;
+  line-height:1.5;
+}
+
+h1, h2, h3, h4{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+/* THIS IS THE HEADER STYLES */
+nav{
+  background-color:#FFD700;
+}
+nav a{
+  color:#008B8B;
+}
+
+/*THIS IS THE ABOUT SECTION STYLES */
+#about{
+  background-color:#FFD700;
+}
+
+/* THIS IS THE SKILLS SECTION STYLES */
+
+
+
+/*THIS IS THE EXPERIENCE SECTION STYLES */
+#work{
+  background-color:#FFD700;
+}
+
+
+/*FOOTER SECTION STYLES */
+button{
+  background-color:#008B8B;
+  color:#FFD700;
+  border: 2px solid #FFD700;
+  padding:4%;
+}
+
+button:hover{
+  background-color:#FFD700;
+  color:#008B8B;
+  border: 2px solid #008B8B;
+}
